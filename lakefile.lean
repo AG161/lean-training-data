@@ -6,7 +6,7 @@ package «lean-training-data» {
 }
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git" @ "master"
+  "https://github.com/AG161/mathlib4.git" @ "master"
 
 @[default_target]
 lean_lib TrainingData where
